@@ -1,0 +1,8 @@
+POST http://localhost:8080/tijian/users/getUsersById
+Content-Type: application/json
+
+{
+  "userId": "12345671112"
+}
+
+###
